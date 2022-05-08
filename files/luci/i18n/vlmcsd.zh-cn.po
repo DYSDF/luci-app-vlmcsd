@@ -6,6 +6,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "KMS Server"
+msgstr "KMS服务器"
+
 msgid "vlmcsd config"
 msgstr "vlmcsd 设置"
 
